@@ -1,2 +1,2 @@
 val num = 50;
-val truth = "100";
+val truth = truller;
