@@ -1,2 +1,1 @@
-val num = 50;
-val truth = truller;
+val truth = "just true";
